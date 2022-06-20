@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=OjwQMwgACJk
 
 https://raw.githubusercontent.com/RodrigoMvs123/Criando-Pods-com-Kubectl-usando-Minikube/main/README.md
 
-
+https://github.com/RodrigoMvs123/Criando-Pods-com-Kubectl-usando-Minikube/blame/main/README.md
 
 
 Criando Pods com Kubectl usando Minikube
