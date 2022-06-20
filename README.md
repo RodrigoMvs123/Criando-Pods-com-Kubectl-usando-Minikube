@@ -1,0 +1,1 @@
+# Criando-Pods-com-Kubectl-usando-Minikube
